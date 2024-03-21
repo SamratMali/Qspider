@@ -1,3 +1,4 @@
+package Methods;
 import java.util.Scanner;
 class Palindromiceven
 {
